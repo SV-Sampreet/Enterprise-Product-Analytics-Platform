@@ -86,4 +86,4 @@ models/
 # =========================
 # Images (optional)
 # =========================
-images/
+images/data/processed/
